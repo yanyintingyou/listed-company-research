@@ -1,0 +1,7 @@
+interface:
+  display_name: "Listed Company Research"
+  short_description: "Primary-source listed-equity research"
+  default_prompt: "Use $listed-company-research to conduct a source-backed fundamental analysis of a listed company."
+
+policy:
+  allow_implicit_invocation: true
