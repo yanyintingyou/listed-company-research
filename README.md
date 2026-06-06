@@ -57,7 +57,7 @@ Clone the repository into your Hermes skills directory:
 
 ```bash
 mkdir -p ~/.hermes/skills/research
-git clone https://github.com/<your-github-username>/listed-company-research.git \
+git clone https://github.com/yanyintingyou/listed-company-research.git \
   ~/.hermes/skills/research/listed-company-research
 ```
 
@@ -243,7 +243,7 @@ listed-company-research/
 
 ```bash
 mkdir -p ~/.hermes/skills/research
-git clone https://github.com/<your-github-username>/listed-company-research.git \
+git clone https://github.com/yanyintingyou/listed-company-research.git \
   ~/.hermes/skills/research/listed-company-research
 ```
 
